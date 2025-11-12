@@ -13,7 +13,7 @@ This is a basic, responsive HTML & CSS website designed to:
 
 ## Preview
 
-The site is currently hosted : 
+The site is currently hosted : https://lorraine14.github.io/WindscreenWeb/
 - Open with browser of your choice
 
 ## Technologies Used
